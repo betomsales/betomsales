@@ -4,7 +4,7 @@
 
 </div>
 
-# 👋 Hi, I'm Luiz Alberto (Beto)
+# 👋 Hi, I'm Luiz Alberto (Beto) 
 
 - Electrical Engineering Student at Federal University of Ceará (UFC)  
 - Electrical Technician (Electrotechnics)  
@@ -60,7 +60,10 @@ Study on limitations of Brazilian power quality indicators.
 
 ## Contact
 
+<img src="assets/GIFs/download.gif" width="300"/>
+
 - Email: betomsales@alu.ufc.br  
 - LinkedIn: https://www.linkedin.com/in/luiz-alberto-marinho-253a40303  
 
 ---
+
